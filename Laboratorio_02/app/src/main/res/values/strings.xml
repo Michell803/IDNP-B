@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IDNP  Laboratorio 2</string>
+    <string name="register_title">Registro de Estudiante</string>
+    <string name="cui">Codigo Unico de Ingresante</string>
+    <string name="dni">Documento Nacional de Identidad</string>
+    <string name="lastname">Apellidos</string>
+    <string name="firt_name">Nombres</string>
+    <string name="phone">Telefono</string>
+    <string name="register_value">Registrar</string>
+</resources>
